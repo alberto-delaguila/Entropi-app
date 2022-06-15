@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Entropi</string>
+
+    <string name="default_rng_box_text">Click on Run!</string>
+    <string name="default_item_box_text">Add item name...</string>
+
+    <string name="item_list_label">Item Picker</string>
+    <string name="generate_rn_text">Return Num.</string>
+
+    <string name="clean_btn">Clean</string>
+    <string name="run_btn">Choose</string>
+    <string name="add_item_btn">Add</string>
+
+    <string name="delete_selection_on_btn">Delete Choice</string>
+    <string name="delete_selection_off_btn">Keep Choice</string>
+
+    <string name="API_HEAD">https://api.open-meteo.com/v1/forecast?</string>
+    <string name="API_FIELDS">&amp;hourly=temperature_2m,cloudcover,shortwave_radiation,windspeed_180m</string>
+
+    <string name="SPFile">SharedPrefs</string>
+    <string name="GPSNotAvailable">Please, enable GPS!</string>
+</resources>
